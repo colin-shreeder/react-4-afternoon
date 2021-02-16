@@ -4,14 +4,17 @@ export default class History extends Component {
   render() {
     return (
       <div>
-        <h1 className='title'>History of WestSide University:</h1>
-        <p>Nullam cursus sem sit amet quam sollicitudin blandit. Phasellus quis odio nec magna ultricies lacinia ut quis nisi. Fusce ultricies leo at quam vehicula, sit amet tincidunt nisl scelerisque. Mauris vitae hendrerit quam. Maecenas sed mi a turpis sollicitudin bibendum. Pellentesque id felis in leo cursus pharetra ac non purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec sapien tortor, cursus at sem ac, posuere condimentum mauris. Mauris auctor mi massa, non ullamcorper orci dapibus et. Phasellus ut pharetra nisl. Phasellus eu rhoncus lorem. In quis metus venenatis, eleifend dui a, iaculis arcu.
-        <br/>
-        <br/>
-        Curabitur egestas libero vel tortor tincidunt finibus. Proin sollicitudin magna nulla, ac aliquet tellus tincidunt eu. Pellentesque elit ex, accumsan id lacus euismod, laoreet ornare est. Mauris sagittis justo ut pharetra lacinia. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris quam justo, mattis ut ornare eget, porttitor cursus nisl. Proin efficitur libero massa, vitae egestas nibh pellentesque eu. Ut sodales velit ipsum. In dapibus, nisl nec tristique pharetra, ante ligula iaculis dolor, nec aliquet odio est ultrices tellus. Nulla efficitur venenatis urna finibus ullamcorper. Aenean ut dictum tellus. Nullam turpis ex, dapibus vel hendrerit nec, dignissim id arcu.
-        <br/>
-        <br/>
-        Morbi viverra quam dui. Quisque accumsan sed felis at gravida. Duis sed nibh dui. Etiam eu aliquam ligula, ac iaculis lorem. Vivamus non enim semper, vehicula quam hendrerit, dignissim diam. Integer eleifend nisl non magna vestibulum feugiat. Sed pellentesque, nisl ut fringilla dapibus, tortor augue porttitor nulla, rhoncus convallis erat enim gravida nulla. Aliquam ac euismod sem. Nulla non ultrices sapien. Vivamus sagittis eget leo vitae sagittis. Maecenas quis leo lacus. Ut sed aliquet orci.</p>
+        <h1 className='title'>History of Utah State University:</h1>
+        <p>
+        
+        On December 16, 1861, Justin Morrill (VT) introduced a bill into the U.S. House of Representatives, "to establish at least one college in each state upon a sure and perpetual foundation, accessible to all, but especially to the sons of toil..." President Abraham Lincoln signed the Morrill Land-Grant Colleges Act into effect in July of the following year.
+
+        <br></br>
+        <br></br>
+
+        Meanwhile, after visiting a few rural agricultural schools in his native Denmark, Anthon H. Lund of the Utah Territorial Legislature decided that there existed in Utah a need for such a school fusing the highest in scientific and academic research with agriculture, the way of life for the vast majority of locals. Upon returning to the states, Lund heard about the Morrill Act, and pitched a vision for the college that would receive widespread support among the Territorial Legislature, who was at the time seeking to reapply for statehood. Now there came the question of location. According to historian Joel Ricks in 1938, "Provo had received the Insane Asylum, Salt Lake City had the University and Capitol, and the majority of the legislature felt that the new institutions should be given to Weber and Cache Counties." Citizens in Logan, Cache County, banded together and successfully lobbied representatives for the honor. The bill to establish the Agricultural College of Utah was passed on March 8, 1888, and on September 2, 1890, 14-year-old Miss Vendla Berntson enrolled as its first student.
+
+        </p>
       </div>
     )
   }
